@@ -1,0 +1,22 @@
+h1 {text-align: center; color: #C28C8C; }
+
+form {text-align: center;margin: 50px auto; padding: 30px 30px; max-width: 450px;}
+label {display: block; margin-bottom: 10px;}
+.form-control {text-align: left; margin-bottom: 25px;}
+
+.form-control input,
+.form-control select,
+.form-control textarea {display: block; padding: 10px; width: 93%;}
+
+.form-control input[Type="radio"],
+.form-control input[Type="checkbox"]{
+    display: inline; width: auto;
+}
+
+button{
+    display: block; width: 98%; padding: 10px 10 px; background-color: #3A5A3A; color: beige;
+    height: 40px;
+}
+
+body{background-color: #4E2A1C;}
+form {background-color: #EBE0D5;}
